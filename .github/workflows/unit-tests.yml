@@ -9,7 +9,7 @@ jobs:
       # Job name
       name: Run unit-testing
       # Where run virtual machine
-      runs-on: windows-latest
+      runs-on: windows-2016
       
       # Job actions
       steps:
